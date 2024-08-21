@@ -16,4 +16,4 @@ public:
         }
         return dp[0][1];
     }
-}
+};
